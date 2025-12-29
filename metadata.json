@@ -1,0 +1,9 @@
+{
+  "name": "AI GPT",
+  "description": "A futuristic, high-end AI dashboard featuring generative text, image, video, and real-time voice interactions.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
